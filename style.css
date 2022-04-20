@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.my{
+    color: black;
+    background-color: rgba(153, 153, 184, 0.759);
+    border: 5px solid grey;
+    height: auto;
+    width: auto;
+    text-align: center;
+    border-radius: 15px;
+    padding: 7px 50px;
+}
+.home{
+    background-color: aqua;
+    height: auto;
+    width: auto;
+    border: 5px solid black;
+    color: black;
+}
+.proj{
+    color: black;
+    background-color: rgba(153, 153, 184, 0.759);
+    border: 5px solid grey;
+    height: auto;
+    width: auto;
+    text-align: left;
+    border-radius: 15px;
+    padding: 7px 10px;
+}
